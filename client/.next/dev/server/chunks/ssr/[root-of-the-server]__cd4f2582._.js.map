@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/greg/tutorials/ticketing/client/pages/index.jsx"],"sourcesContent":["const HomePage = () => {\n  return <h1>Home Page</h1>;\n};\n\nexport default HomePage;\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,WAAW;IACf,qBAAO,qKAAC;kBAAG;;;;;;AACb;uCAEe"}}]
+}
